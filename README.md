@@ -1,4 +1,4 @@
-<img width="313" height="114" alt="图片" src="https://github.com/user-attachments/assets/8022dee1-8bb0-4555-ab9c-73e6e3804108" />## **这里是灵构大厅**
+## **这里是灵构大厅**
 **作者:AC**
 
 **[加入dc](https://discord.gg/CQQnenEWsj)**
