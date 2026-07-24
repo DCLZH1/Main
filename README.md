@@ -1,9 +1,9 @@
 ## **这里是灵构大厅**
 **作者:AC**
 
-**[加入dc](https://discord.gg/CQQnenEWsj)**
+**[加入DC](https://discord.gg/CQQnenEWsj)**
 
-**[加入roblox群组](https://www.roblox.com/communities/35773943/CDRIMOP#!/about)**
+**[加入Roblox群组](https://www.roblox.com/communities/35773943/CDRIMOP#!/about)**
 
 **[获取卡密](https://jnkie.com/overview/acc)**
 
@@ -37,5 +37,9 @@ loadstring(game:HttpGet'https://tinyurl.com/3fmxt65b')()':3'
 > **天堂站立**
 >
 > **压力(Making)**
+>
+> **撕咬之夜**
+>
+> **Reign Fall**
 > 
 > **SOON**
