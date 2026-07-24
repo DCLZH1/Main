@@ -7,7 +7,7 @@
 
 **[获取卡密](https://jnkie.com/overview/acc)**
 
-**[网站](https://r2new.vercel.app/)需要VPN**
+**[网站](https://r2new.vercel.app/)(需要VPN)**
 
 **Q群:996155023**
 
